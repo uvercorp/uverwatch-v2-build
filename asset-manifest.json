@@ -1,10 +1,12 @@
 {
   "files": {
-    "main.css": "/static/css/main.8c87879c.css",
-    "main.js": "/static/js/main.4827e54e.js",
+    "main.css": "/static/css/main.8ced2ea2.css",
+    "main.js": "/static/js/main.4893a090.js",
     "static/media/photo-1431578500526-4d9613015464.jpeg": "/static/media/photo-1431578500526-4d9613015464.0c528dc7193509e0eef6.jpeg",
     "static/media/fa-solid-900.svg": "/static/media/fa-solid-900.0454203f26b33fc02e2b.svg",
     "static/media/fa-brands-400.svg": "/static/media/fa-brands-400.991c1c761fc31f9c3252.svg",
+    "static/media/earth_daymap.jpg": "/static/media/earth_daymap.981cc3e3660e809249a3.jpg",
+    "static/media/earth_nightmap.jpg": "/static/media/earth_nightmap.36f11e5e8af29fc1457e.jpg",
     "static/media/fa-solid-900.eot": "/static/media/fa-solid-900.6606667d9800a27eb8b5.eot",
     "static/media/fa-solid-900.ttf": "/static/media/fa-solid-900.915a0b79c22a1c1f64da.ttf",
     "static/media/OverpassMono-Regular.ttf": "/static/media/OverpassMono-Regular.a519aa4b5b443c7c3fd8.ttf",
@@ -33,11 +35,11 @@
     "static/media/empty_dashboard.svg": "/static/media/empty_dashboard.c9e44ab4febd13c33067225845c94892.svg",
     "static/media/polyline.svg": "/static/media/polyline.82dfcc157a379cb19e786d857adc073f.svg",
     "static/media/library_books.svg": "/static/media/library_books.dad9a9989c74deaa5b442f3fc9bd10c7.svg",
-    "main.8c87879c.css.map": "/static/css/main.8c87879c.css.map",
-    "main.4827e54e.js.map": "/static/js/main.4827e54e.js.map"
+    "main.8ced2ea2.css.map": "/static/css/main.8ced2ea2.css.map",
+    "main.4893a090.js.map": "/static/js/main.4893a090.js.map"
   },
   "entrypoints": [
-    "static/css/main.8c87879c.css",
-    "static/js/main.4827e54e.js"
+    "static/css/main.8ced2ea2.css",
+    "static/js/main.4893a090.js"
   ]
 }
